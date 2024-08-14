@@ -1,5 +1,6 @@
 ﻿using ETicaretAPI.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using ETicaretAPI.Application;
 using System;
 using System.Collections.Generic;
 using System.Linq;
